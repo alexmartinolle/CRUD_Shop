@@ -1,0 +1,1 @@
+This is my first CRUD with Python using FastAPI, SQLAlchemy and Pydantic.
